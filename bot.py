@@ -1,5 +1,5 @@
 # @iTOMMYSHELBY ADRIN
-#TS BOTS
+#TS BOTZ
 import os
 from pyrogram import Client, filters
 from pyrogram.types import (
