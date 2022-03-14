@@ -1,5 +1,5 @@
-# @mrlokaman ©️ shyan
-#lntechnical
+# @iTOMMYSHELBY ADRIN
+#TS BOTS
 import os
 from pyrogram import Client, filters
 from pyrogram.types import (
