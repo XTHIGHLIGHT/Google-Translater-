@@ -15,7 +15,7 @@
 
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lntechnical2/Google-Translater-)
+[![TS_BOTZ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XTHIGHLIGHT/Google-Translater-)
 
 ### License
 
@@ -43,11 +43,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+## Support 
+<a href="https://t.me/TS_BOTZ">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> YouTube </p>
-  </a>
-
